@@ -1,0 +1,4 @@
+# Only the built page is published; sources stay local.
+*
+!index.html
+!.gitignore
